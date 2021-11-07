@@ -1,2 +1,2 @@
-# Fr-child
-Fréchild Team Repo
+# Team Fréchild
+Repo for Team Fréchild
